@@ -1,0 +1,1 @@
+{"dependencies":[{"name":"_css_loader"}],"generated":{"css":"._font-red_1nhur_1 {\n  color: red; }\n","js":"\n        var reloadCSS = require('_css_loader');\n        module.hot.dispose(reloadCSS);\n        module.hot.accept(reloadCSS);\n      module.exports = {\n  \"font-red\": \"_font-red_1nhur_1\"\n};"},"hash":"77d5c876a77d645d41ef10334b35be3c"}

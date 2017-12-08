@@ -1,0 +1,1 @@
+{"dependencies":[{"name":"jquery"},{"name":"./main"}],"generated":{"js":"\"use strict\";function e(e){return e&&e.__esModule?e:{default:e}}var u=e(require(\"jquery\")),r=e(require(\"./main\"));(0,u.default)(function(){(0,r.default)()});"},"hash":"2d07d0e11138361cfc582b45a07b976e"}

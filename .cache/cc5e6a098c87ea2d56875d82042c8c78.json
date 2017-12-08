@@ -1,0 +1,1 @@
+{"dependencies":[],"generated":{"js":"\"use strict\";var o={a:1,b:2},e={a:0,b:1};module.exports=function(){var s=Object.assign({},e,o);console.log(\"!!! ===>\",s),console.log(\"merge opts ===>\",s)};"},"hash":"a170a4c72a4ffb2dbaa5bcd73d85cb3c"}
