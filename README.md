@@ -6,6 +6,11 @@
 ### 사용법 (command)
 git repository를 다운 받습니다.
 
+npm install을 실행합니다.
+```bash
+npm install
+```
+
 * 1) 빌드 (production mode)
 배포 모드 빌드 command는 다음과 같이 사용합니다.
 ```bash
